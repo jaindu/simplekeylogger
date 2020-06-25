@@ -8,8 +8,8 @@ import os.path
 
 #okkoma antimata .pyw karanna oona
 ########
-email = 'peter9102feb@gmail.com'
-password = 'Ohmygod123'
+email = 'yourmail'
+password = 'password'
 send_to_email = 'todomystuff@protonmail.com'
 subject = 'dfghog'
 message = 'gdf'
